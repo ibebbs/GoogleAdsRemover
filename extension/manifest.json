@@ -2,7 +2,7 @@
 	"manifest_version": 2,
 	
 	"name": "GoogleAdService Redirection",
-	"description": "An extension that lets redirects requests to GoogleAdServices.com directly to the destination URL. This is great if you're using PiHole which, by default, blocks GoogleAdServices.com",
+	"description": "An extension that redirects requests to GoogleAdServices.com directly to the destination URL.",
 	"version": "1.0",
 
 	"permissions": [
